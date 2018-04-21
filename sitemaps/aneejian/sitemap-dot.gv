@@ -1,0 +1,37 @@
+graph sitemap {
+  splines=true;
+  overlap=false;
+  bgcolor=white;
+  rankdir=LR;
+  node [shape=Mrecord, style=filled, fillcolor=skyblue, fontname="Arial", fontsize=12];
+
+  "aneejian.com" -- "2016/08/drag-and-drop-item-from-windows-explorer-to-application-using-uft.html" [weight="8"];
+  "aneejian.com" -- "2015/08/angular-js-custom-directive-for-expand-or-collapse.html" [weight="8"];
+  "aneejian.com" -- "p/policy.html" [weight="8"];
+  "aneejian.com" -- "2017/03/hp-alm-rest-api-get-alm-projects.html" [weight="8"];
+  "aneejian.com" -- "p/contact-us.html" [weight="8"];
+  "aneejian.com" -- "p/forum.html" [weight="8"];
+  "aneejian.com" -- "p/write-for-us.html" [weight="8"];
+  "aneejian.com" -- "2013/11/uft-function-select-an-item-from-a-weblist-or-wincombobox.html" [weight="8"];
+  "aneejian.com" -- "2018/04/change-case-excel-add-in.html" [weight="7"];
+  "aneejian.com" -- "2017/03/hp-alm-rest-api-authentication.html" [weight="10"];
+  "aneejian.com" -- "p/sitemap.html" [weight="7"];
+  "2017/03/hp-alm-rest-api-get-alm-projects.html" -- "2017/03/hp-alm-rest-api-get-alm-domains.html" [weight="3"];
+  "feeds/comments/default" -- "2015/05/qtp-uft-report-modes.html"
+
+  "aneejian.com" [label="aneejian\nDepth:0 Power:10"]
+  "2017/03/hp-alm-rest-api-authentication.html" [label="hp-alm-rest-api-authentication\nDepth:1 Power:9"]
+  "2017/03/hp-alm-rest-api-get-alm-projects.html" [label="hp-alm-rest-api-get-alm-projects\nDepth:1 Power:8"]
+  "2015/08/angular-js-custom-directive-for-expand-or-collapse.html" [label="angular-js-custom-directive-for-expand-or-collapse\nDepth:1 Power:8"]
+  "2013/11/uft-function-select-an-item-from-a-weblist-or-wincombobox.html" [label="uft-function-select-an-item-from-a-weblist-or-wincombobox\nDepth:1 Power:8"]
+  "2016/08/drag-and-drop-item-from-windows-explorer-to-application-using-uft.html" [label="drag-and-drop-item-from-windows-explorer-to-application-using-uft\nDepth:1 Power:8"]
+  "p/write-for-us.html" [label="write-for-us\nDepth:1 Power:8"]
+  "p/policy.html" [label="policy\nDepth:1 Power:8"]
+  "p/contact-us.html" [label="contact-us\nDepth:1 Power:8"]
+  "p/forum.html" [label="forum\nDepth:1 Power:8"]
+  "2018/04/change-case-excel-add-in.html" [label="change-case-excel-add-in\nDepth:1 Power:6"]
+  "p/sitemap.html" [label="sitemap\nDepth:1 Power:6"]
+  "2017/03/hp-alm-rest-api-get-alm-domains.html" [label="hp-alm-rest-api-get-alm-domains\nDepth:2 Power:1"]
+  "2015/05/qtp-uft-report-modes.html" [label="qtp-uft-report-modes\nDepth:2 Power:1"]
+  "feeds/comments/default" [label="default\nDepth:1 Power:0"]
+}

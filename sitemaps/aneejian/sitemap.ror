@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/">
+  <channel>
+    <title>Aneejian</title>
+    <link>https://www.aneejian.com/</link>
+    <description>ROR sitemap feed : https://www.aneejian.com/</description>
+    <lastBuildDate>Sat, 21 Apr 2018 23:56:10 GMT</lastBuildDate>
+    <generator>A1 Sitemap Generator</generator>
+    <ror:about>sitemap</ror:about>
+    <ror:type>SiteMap</ror:type>
+      <item>
+        <title>UFT Function to Select an item from a WebList or WinComboBox | Aneejian</title>
+        <description>UFT/QTP Function to select an item form WebList or WinComboBox. It selects a list item specified in the function call, reports pass or fail.</description>
+        <link>https://www.aneejian.com/2013/11/uft-function-select-an-item-from-a-weblist-or-wincombobox.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>9</ror:sortOrder>
+        <ror:updatePeriod>day</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>UFT/QTP Function to select an item form WebList or WinComboBox. It selects a list item specified in the function call, reports pass or fail.</ror:desc>
+        <ror:keywords>a, an, aneejian, from, function, item, or, select, to, uft, weblist, wincombobox</ror:keywords>
+      </item>
+      <item>
+        <title>Reporting Modes in UFT | Aneejian</title>
+        <description>Reporter object in UFT has different reporting modes. This post discusses about various mode available in reporter object.</description>
+        <link>https://www.aneejian.com/2015/05/qtp-uft-report-modes.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>2</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Reporter object in UFT has different reporting modes. This post discusses about various mode available in reporter object.</ror:desc>
+        <ror:keywords>aneejian, in, modes, reporting, uft</ror:keywords>
+      </item>
+      <item>
+        <title>Angular JS Custom Directive for Expand Collapse | Aneejian</title>
+        <description>Tutorial on how to create an Angular JS Directive for expand and collapse with step by step instructions, demo and source code download.</description>
+        <link>https://www.aneejian.com/2015/08/angular-js-custom-directive-for-expand-or-collapse.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>9</ror:sortOrder>
+        <ror:updatePeriod>day</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Tutorial on how to create an Angular JS Directive for expand and collapse with step by step instructions, demo and source code download.</ror:desc>
+        <ror:keywords>aneejian, angular, collapse, custom, directive, expand, for, js</ror:keywords>
+      </item>
+      <item>
+        <title>Drag and drop item from windows explorer to application using UFT | Aneejian</title>
+        <description>Subroutine to drag and drop item from windows explorer to application using UFT or QTP. By default this feature is not yet available in QTP or UFT.</description>
+        <link>https://www.aneejian.com/2016/08/drag-and-drop-item-from-windows-explorer-to-application-using-uft.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>9</ror:sortOrder>
+        <ror:updatePeriod>day</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Subroutine to drag and drop item from windows explorer to application using UFT or QTP. By default this feature is not yet available in QTP or UFT.</ror:desc>
+        <ror:keywords>and, aneejian, application, drag, drop, explorer, from, item, to, uft, using, windows</ror:keywords>
+      </item>
+      <item>
+        <title>AngularJS Quiz 2 | Aneejian</title>
+        <description>Attend the Angular JS Quiz @aneejian and test your knowledge. Total 10 questions. Work your brains and know how much you can score. #angularjs</description>
+        <link>https://www.aneejian.com/2017/03/angularjs-quiz-2.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>3</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Attend the Angular JS Quiz @aneejian and test your knowledge. Total 10 questions. Work your brains and know how much you can score. #angularjs</ror:desc>
+        <ror:keywords>2, aneejian, angularjs, quiz</ror:keywords>
+      </item>
+      <item>
+        <title>HP ALM REST API - Authentication | Aneejian</title>
+        <description>Tutorial on how to authenticate HP ALM Session using REST API. Includes VB and C# code for Sign-in and Sign-out resources.</description>
+        <link>https://www.aneejian.com/2017/03/hp-alm-rest-api-authentication.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>10</ror:sortOrder>
+        <ror:updatePeriod>day</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Tutorial on how to authenticate HP ALM Session using REST API. Includes VB and C# code for Sign-in and Sign-out resources.</ror:desc>
+        <ror:keywords>alm, aneejian, api, authentication, hp, rest</ror:keywords>
+      </item>
+      <item>
+        <title>HP ALM REST API - Get ALM Domains | Aneejian</title>
+        <description>Tutorial on how to get domains from HP ALM using REST API. Includes the browser method, VB and C# functions to get domains. Learn more @aneejian</description>
+        <link>https://www.aneejian.com/2017/03/hp-alm-rest-api-get-alm-domains.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>2</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Tutorial on how to get domains from HP ALM using REST API. Includes the browser method, VB and C# functions to get domains. Learn more @aneejian</ror:desc>
+        <ror:keywords>alm, aneejian, api, domains, get, hp, rest</ror:keywords>
+      </item>
+      <item>
+        <title>HP ALM REST API - Get ALM Projects | Aneejian</title>
+        <description>Tutorial on how to get projects from HP ALM using REST API. Includes the browser method, VB and C# functions to get domains. Learn more @aneejian</description>
+        <link>https://www.aneejian.com/2017/03/hp-alm-rest-api-get-alm-projects.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>9</ror:sortOrder>
+        <ror:updatePeriod>day</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Tutorial on how to get projects from HP ALM using REST API. Includes the browser method, VB and C# functions to get domains. Learn more @aneejian</ror:desc>
+        <ror:keywords>alm, aneejian, api, get, hp, projects, rest</ror:keywords>
+      </item>
+      <item>
+        <title>Change Case Excel Add-In | Aneejian</title>
+        <description>Change Case Excel Add-In is a powerful Excel VSTO Add-In that can change case of selected cell or range of cells. With easy to use Keyboard shortcuts, perform case conversion in style.</description>
+        <link>https://www.aneejian.com/2018/04/change-case-excel-add-in.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>7</ror:sortOrder>
+        <ror:updatePeriod>day</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Change Case Excel Add-In is a powerful Excel VSTO Add-In that can change case of selected cell or range of cells. With easy to use Keyboard shortcuts, perform case conversion in style.</ror:desc>
+        <ror:keywords>add, aneejian, case, change, excel, in</ror:keywords>
+      </item>
+      <item>
+        <title>favicon</title>
+        <link>https://www.aneejian.com/favicon.ico</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>1</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+      </item>
+      <item>
+        <title>very nice!! Moreover I like the quiz presentation,...</title>
+        <link>https://www.aneejian.com/feeds/2504734480963074209/comments/default</link>
+        <pubDate>Tue, 3 Apr 2018 11:30:52 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>1</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:keywords>i, like, moreover, nice, presentation, quiz, the, very</ror:keywords>
+      </item>
+      <item>
+        <title>Aneejian</title>
+        <link>https://www.aneejian.com/feeds/5972277124143637947/comments/default</link>
+        <pubDate>Tue, 3 Apr 2018 11:30:52 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>1</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:keywords>aneejian</ror:keywords>
+      </item>
+      <item>
+        <title>Aneejian</title>
+        <link>https://www.aneejian.com/feeds/643183687844385316/comments/default</link>
+        <pubDate>Tue, 3 Apr 2018 11:30:52 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>1</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:keywords>aneejian</ror:keywords>
+      </item>
+      <item>
+        <title>Aneejian</title>
+        <link>https://www.aneejian.com/feeds/6735295131111601338/comments/default</link>
+        <pubDate>Tue, 3 Apr 2018 11:30:52 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>1</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:keywords>aneejian</ror:keywords>
+      </item>
+      <item>
+        <title>Aneejian</title>
+        <link>https://www.aneejian.com/feeds/6804239529732806113/comments/default</link>
+        <pubDate>Tue, 3 Apr 2018 11:30:52 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>1</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:keywords>aneejian</ror:keywords>
+      </item>
+      <item>
+        <title>Aneejian</title>
+        <link>https://www.aneejian.com/feeds/6947816881240103496/comments/default</link>
+        <pubDate>Tue, 3 Apr 2018 11:30:52 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>1</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:keywords>aneejian</ror:keywords>
+      </item>
+      <item>
+        <title>default</title>
+        <link>https://www.aneejian.com/feeds/7145863229606599742/comments/default</link>
+        <pubDate>Tue, 3 Apr 2018 11:30:52 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>1</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+      </item>
+      <item>
+        <title>Aneejian</title>
+        <link>https://www.aneejian.com/feeds/7272926532894073186/comments/default</link>
+        <pubDate>Tue, 3 Apr 2018 11:30:52 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>1</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:keywords>aneejian</ror:keywords>
+      </item>
+      <item>
+        <title>Aneejian</title>
+        <link>https://www.aneejian.com/feeds/9217319559685420570/comments/default</link>
+        <pubDate>Tue, 3 Apr 2018 11:30:52 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>1</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:keywords>aneejian</ror:keywords>
+      </item>
+      <item>
+        <title>very nice!! Moreover I like the quiz presentation,...</title>
+        <link>https://www.aneejian.com/feeds/comments/default</link>
+        <pubDate>Tue, 3 Apr 2018 11:30:52 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>1</ror:sortOrder>
+        <ror:updatePeriod>week</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:keywords>i, like, moreover, nice, presentation, quiz, the, very</ror:keywords>
+      </item>
+      <item>
+        <title>Contact Us | Aneejian</title>
+        <description>Aneejian is a personal blog. Topics include Robotic Process Automation, Software, Testing, Android, VB.NET, Excel, UFT, HP ALM, Travel and more.</description>
+        <link>https://www.aneejian.com/p/contact-us.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>9</ror:sortOrder>
+        <ror:updatePeriod>day</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Aneejian is a personal blog. Topics include Robotic Process Automation, Software, Testing, Android, VB.NET, Excel, UFT, HP ALM, Travel and more.</ror:desc>
+        <ror:keywords>aneejian, contact, us</ror:keywords>
+      </item>
+      <item>
+        <title>Forum | Aneejian</title>
+        <description>Discussions on testing, automation, excel, vb, csharp and more. Ask questions.</description>
+        <link>https://www.aneejian.com/p/forum.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>9</ror:sortOrder>
+        <ror:updatePeriod>day</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Discussions on testing, automation, excel, vb, csharp and more. Ask questions.</ror:desc>
+        <ror:keywords>aneejian, forum</ror:keywords>
+      </item>
+      <item>
+        <title>Policy | Aneejian</title>
+        <description>Aneejian is a personal blog. Topics include Robotic Process Automation, Software, Testing, Android, VB.NET, Excel, UFT, HP ALM, Travel and more.</description>
+        <link>https://www.aneejian.com/p/policy.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>9</ror:sortOrder>
+        <ror:updatePeriod>day</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Aneejian is a personal blog. Topics include Robotic Process Automation, Software, Testing, Android, VB.NET, Excel, UFT, HP ALM, Travel and more.</ror:desc>
+        <ror:keywords>aneejian, policy</ror:keywords>
+      </item>
+      <item>
+        <title>Sitemap | Aneejian</title>
+        <description>Aneejian is a personal blog. Topics include Robotic Process Automation, Software, Testing, Android, VB.NET, Excel, UFT, HP ALM, Travel and more.</description>
+        <link>https://www.aneejian.com/p/sitemap.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>7</ror:sortOrder>
+        <ror:updatePeriod>day</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Aneejian is a personal blog. Topics include Robotic Process Automation, Software, Testing, Android, VB.NET, Excel, UFT, HP ALM, Travel and more.</ror:desc>
+        <ror:keywords>aneejian, sitemap</ror:keywords>
+      </item>
+      <item>
+        <title>Write for Us | Aneejian</title>
+        <description>Write for Aneejian. Send you articles to editor@aneejian.com</description>
+        <link>https://www.aneejian.com/p/write-for-us.html</link>
+        <pubDate>Sat, 21 Apr 2018 19:25:43 GMT</pubDate>
+        <ror:resourceOf>sitemap</ror:resourceOf>
+        <ror:sortOrder>9</ror:sortOrder>
+        <ror:updatePeriod>day</ror:updatePeriod>
+        <ror:size>0</ror:size>
+        <ror:desc>Write for Aneejian. Send you articles to editor@aneejian.com</ror:desc>
+        <ror:keywords>aneejian, for, us, write</ror:keywords>
+      </item>
+  </channel>
+</rss>
