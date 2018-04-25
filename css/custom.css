@@ -1,20 +1,28 @@
-.col-centered{
-    float: none;
-    margin: 0 auto;
-}
-
-
-/* start footer */
-footer
-    {
-        background: #fff;
-        font-weight: 400;
-        text-align: center;
-        padding: 20px;
-    }
-/* end footer */
+/* start brand */
 
 #brandAneejian img {
     max-width: 7em;
     margin-left: .5em;
 }
+
+/* end brand */
+
+/* start center in container */
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+/* end center in container */
+
+/* start footer */
+
+footer {
+    background: #fff;
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
+}
+
+/* end footer */
